@@ -1,0 +1,11 @@
+campo
+Master_status
+Visa_status
+Master_status_lag1
+Visa_status_lag1
+Master_status_delta_lag1
+Visa_status_delta_lag1
+Master_status_lag2
+Visa_status_lag2
+Master_status_delta_lag2
+Visa_status_delta_lag2

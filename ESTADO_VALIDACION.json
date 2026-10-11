@@ -1,0 +1,13 @@
+{
+  "notebooks_formato": "OK",
+  "python_sintaxis": "OK",
+  "R_sintaxis_nativa": "OK (parser R 4.3.3; validación R 4.6.1 incluida para VM)",
+  "hp_procedencia": "OK",
+  "semillas_columnas": "OK",
+  "csv_referencia_sha256": "OK",
+  "replica_desde_crudo": "PENDIENTE_EN_VM",
+  "corte": 10375,
+  "publico": 106.3975,
+  "submit_K10375": "1537-1791756238380992",
+  "ultimo_submit_confirmado": "K11500; falta reenvío K10375"
+}

@@ -1,0 +1,678 @@
+[
+  {
+    "archivo": ".gitignore",
+    "sha256": "79b08fc55e352ffaaefe3c1a973d1307d9cbf389ec347e4889486ea797f45888"
+  },
+  {
+    "archivo": "BO_Origen.ipynb",
+    "sha256": "31ddae0db6eaf110e2b6bff266e6fd49e244fcca59cf6c52eb1cb4c9d90eb8db"
+  },
+  {
+    "archivo": "DMEyF_Nicky_Entrega_Final.ipynb",
+    "sha256": "49215c4c1cfb9a33923e3290d023bf38b6f204bfdbae92f002cbf73218dd2c5c"
+  },
+  {
+    "archivo": "ESTADO_VALIDACION.json",
+    "sha256": "2f09697785cd6e0b5bbd15940a0a8b8bf471ad0485889a3a2cb6dd0cbfb6578f"
+  },
+  {
+    "archivo": "README.md",
+    "sha256": "34902d381787c2d73df197fbff594950da56e81732e5466fb8cb3dbd6c9fb58b"
+  },
+  {
+    "archivo": "REGISTRO_EXPERIMENTOS.csv",
+    "sha256": "f778b78defa361926ea09ee3b40ee27d4bd6573f52c9b7ce5fc1da58906b99a5"
+  },
+  {
+    "archivo": "REPRODUCIR_FINAL.R",
+    "sha256": "31c7dc1c0f1da786183dddd727ef6f5e093aa2ea6b822363aad6aa22ba941b92"
+  },
+  {
+    "archivo": "VALIDAR_SINTAXIS.R",
+    "sha256": "5d66c33e6b1f6fcc9267907747778f4f9648444d388fd9f25db7359f1d92f8cf"
+  },
+  {
+    "archivo": "VALIDAR_Y_LANZAR.py",
+    "sha256": "f7aa6f66f634654cae60213e51c07937aed28f534358057ac008187a1c7228f1"
+  },
+  {
+    "archivo": "codigo/configuracion.R",
+    "sha256": "f77aeb66bff6821ac552703397143b029b94898ae6f48d35b098bcc87a0cdca3"
+  },
+  {
+    "archivo": "codigo/cortes.R",
+    "sha256": "d471a8e9975e3aa4ae5ff48c922cb6b0889ce1c7c477a60920301aca304ee8cc"
+  },
+  {
+    "archivo": "codigo/experimentos.R",
+    "sha256": "96a35c13a13ee1a5b0221d2347591540354fe80c1dec2583a171b478286cb330"
+  },
+  {
+    "archivo": "codigo/final.R",
+    "sha256": "a6ce4487413515450cf995e10171f87e1fcda0aa7b0bb5b9f267ff203a5f7563"
+  },
+  {
+    "archivo": "codigo/motor.R",
+    "sha256": "9c2b1b919b26074884ba41a57c9e8440f32a257f2d1c3a0706666fdf2259887c"
+  },
+  {
+    "archivo": "codigo/motor_integral.R",
+    "sha256": "05558fbbf940e5cf87d4f4f255ed5f67a8805f30a393368255233cf48efa5aa7"
+  },
+  {
+    "archivo": "codigo/preparacion.R",
+    "sha256": "2c4d491c4742f6c6eb95e5675fbb0c4b8bd7246409e25f7e953aa50e61b43a25"
+  },
+  {
+    "archivo": "evidencia/ARTIFICIALES_RANK_H/COMPARACION_RECETAS.csv",
+    "sha256": "9332efed702231b45d1c717e6cfe7b4976bea1db655ea02907a97694fc3f8e2d"
+  },
+  {
+    "archivo": "evidencia/ARTIFICIALES_RANK_P_V1/AUDITORIA_ETIQUETAS.csv",
+    "sha256": "a372606a758b668196d24821e00ea37e31d5f77c154b918e1c7ed0d9c0f7b352"
+  },
+  {
+    "archivo": "evidencia/ARTIFICIALES_RANK_P_V1/GRUPOS_ENS5.csv",
+    "sha256": "2918192ff2cfa380f1108f241b2211f9f3caae25d8ef3b3fc4a4328bddc42b69"
+  },
+  {
+    "archivo": "evidencia/ARTIFICIALES_RANK_P_V1/resultados/planes/AUDITORIA_ETIQUETAS_ARTIFICIALES_RANK_LAG2_prod_8260e586d2bb40fe.csv",
+    "sha256": "a372606a758b668196d24821e00ea37e31d5f77c154b918e1c7ed0d9c0f7b352"
+  },
+  {
+    "archivo": "evidencia/CIERRE_CORTES_SINCIERRES_V1/COMPARACION_CORTES.csv",
+    "sha256": "ddee1aa87d1442d27fa3f7228cb85e372b82e4e27b8a9b095bfa13d726d28710"
+  },
+  {
+    "archivo": "evidencia/CIERRE_CORTES_SINCIERRES_V1/COMPARACION_LOCAL.csv",
+    "sha256": "a32906aba478df6d64ee2ed13d2cea9bdd4253ad3536e8663e8cdccf0b74e087"
+  },
+  {
+    "archivo": "evidencia/CIERRE_CORTES_SINCIERRES_V1/COMPARACION_PUNTO_INTERMEDIO.csv",
+    "sha256": "feb38255990a000b6a544c1e7d6f214dfb3491d4cdc87587a35a9c9e349dff12"
+  },
+  {
+    "archivo": "evidencia/CIERRE_CORTES_SINCIERRES_V1/CURVA_JUNIO.csv",
+    "sha256": "f8b9cc2eeac337ee284570118e07a2a0c4ad503a4ba1c93c1f9567c1e4088ec3"
+  },
+  {
+    "archivo": "evidencia/CORTES_ROBUSTOS_H_V1/COMPARACION_CORTES.csv",
+    "sha256": "8ef3281203e8ab4e5309622adbaec20f18e86f7955915d5de708978c32ee6e5e"
+  },
+  {
+    "archivo": "evidencia/CORTES_ROBUSTOS_H_V1/CORTES_PREFIJADOS.csv",
+    "sha256": "ad7276b0e09629e237419ce4eb3d89a513735091f15f2a0fdc126cc4bf7fe6f3"
+  },
+  {
+    "archivo": "evidencia/CORTES_ROBUSTOS_H_V1/TRAZABILIDAD.csv",
+    "sha256": "6edd0661cfbe86ff4d94733072ee147841b0ea5412273f3d09bae33fb0a556c8"
+  },
+  {
+    "archivo": "evidencia/ENSAMBLES5_STATUS_V1/GANANCIAS_JUNIO.csv",
+    "sha256": "47a473e31a37b05683cb35a06e72287b6042005a211b01e982c75cd599467810"
+  },
+  {
+    "archivo": "evidencia/ENSAMBLES5_STATUS_V1/GRUPOS_PREDEFINIDOS.csv",
+    "sha256": "5131f847222afb9557181b9dc2dc869310748f8b0b585e56b2bbc97c8dce8711"
+  },
+  {
+    "archivo": "evidencia/ENSAMBLES5_STATUS_V1/RESUMEN_JUNIO.csv",
+    "sha256": "e639ed231048f55eb9d3bc7ec4d2e13b2ec4909c3596df6f6f16b0fc5e1e4671"
+  },
+  {
+    "archivo": "evidencia/ENSAMBLES5_STATUS_V1/STATUS_CORREGIDO_JUNIO/STATUS_TRANSICIONES_POR_MES.csv",
+    "sha256": "83b0b4009aa6a216bea9104ee22c72cd6b3cc6ed38d641df2b38c81dada40a44"
+  },
+  {
+    "archivo": "evidencia/ENSAMBLES5_STATUS_V1/STATUS_CORREGIDO_JUNIO/STATUS_YA_INCLUIDOS_EN_CONTROL.csv",
+    "sha256": "bc8558d5eb9c62c70f6865d8b7dadc1caa1f34e6f402fe6c64fcfc14407f6b97"
+  },
+  {
+    "archivo": "evidencia/ENSAMBLES5_STATUS_V1/STATUS_TRANSICIONES_POR_MES.csv",
+    "sha256": "0b525c38f60f52cc0457755401a4280d055a784907927894f0a79f2679d1532f"
+  },
+  {
+    "archivo": "evidencia/ENSAMBLES5_STATUS_V1/STATUS_YA_INCLUIDOS_EN_CONTROL.csv",
+    "sha256": "bc8558d5eb9c62c70f6865d8b7dadc1caa1f34e6f402fe6c64fcfc14407f6b97"
+  },
+  {
+    "archivo": "evidencia/FINAL_COMPARACIONES_V1/CONTROL_TRAZABILIDAD.csv",
+    "sha256": "23443d5fc5da7d10dfb491cec12911d3671f862521623fc9eb1bfc3765a9aee4"
+  },
+  {
+    "archivo": "evidencia/FINAL_COMPARACIONES_V1/ENTREGA/EXCLUIDAS.csv",
+    "sha256": "38475faa56a7c876f577eaf5a07da544be219b472a54e6ef4f2b097bfc684135"
+  },
+  {
+    "archivo": "evidencia/FINAL_COMPARACIONES_V1/ENTREGA/FEATURES.csv",
+    "sha256": "9eafaa68f9f510fe24d3fd53217c5e9b65a2a1235a4d71d81f080507dcbf5f99"
+  },
+  {
+    "archivo": "evidencia/FINAL_COMPARACIONES_V1/ENTREGA/GRUPOS_ENS5.csv",
+    "sha256": "9d33d36e750c12c290a167aeff34b4c02e47c00d67901177e21932a58a21d0e0"
+  },
+  {
+    "archivo": "evidencia/FINAL_COMPARACIONES_V1/GRUPOS_CONTROL_ENS5.csv",
+    "sha256": "9d33d36e750c12c290a167aeff34b4c02e47c00d67901177e21932a58a21d0e0"
+  },
+  {
+    "archivo": "evidencia/RANK_ZERO_TEND3_H_V1/COMPARACION_ENSAMBLES.csv",
+    "sha256": "8e93bdf79e52cbc104616b686dfe3bd10aa10f8cda911e3e47c89458801ac164"
+  },
+  {
+    "archivo": "evidencia/RANK_ZERO_TEND3_H_V1/DIFERENCIAS_PAREADAS.csv",
+    "sha256": "646c9538cfbdf5669d31d26b45f9a8b20044108e7606ec0c759c79f39ae9ce97"
+  },
+  {
+    "archivo": "evidencia/RANK_ZERO_TEND3_H_V1/FEATURES_NUEVAS.csv",
+    "sha256": "413f4a2648f1b475adcb63f5bc4b0d28cc484d1da5f1e5654c3e124c17e4f46c"
+  },
+  {
+    "archivo": "evidencia/RANK_ZERO_TEND3_H_V1/RESULTADOS_PARCIALES.csv",
+    "sha256": "3900c221e9bc7b1f7c88fccbc6acac81dc461f1338423b2b16523c187d2866a2"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_BO_FINAL_V1/BO_EVALUACIONES.csv",
+    "sha256": "f876fc98de93775349851b335fef8e31f1bfcc5630471dbce5e0a170ad564547"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_BO_FINAL_V1/CONFIRMACION.csv",
+    "sha256": "0429ddd285312bdc4a17819f6aa11b8b868a78e17185974d10f659bfd151b1df"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_COMPARACIONES_H_V1/COMPARACION_ENS5_PAREADA.csv",
+    "sha256": "56841cdabb26586af8d684bdbf511643af5e110fd667b9b3137b2e865cf1f927"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_COMPARACIONES_H_V1/CURVAS_CADA_250.csv",
+    "sha256": "3f1583028c9d982d36e805462e51570ac743c09bf359e9d658f544f5480ae35d"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_COMPARACIONES_H_V1/GRUPOS_ENS5.csv",
+    "sha256": "9d33d36e750c12c290a167aeff34b4c02e47c00d67901177e21932a58a21d0e0"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_COMPARACIONES_H_V1/RESUMEN_ENS5.csv",
+    "sha256": "a856b9728209221020b025be14ad435fcd83cd47c4b63cd3b86b81e62ab88a3b"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_COMPARACIONES_H_V1/RESUMEN_ENSAMBLE10.csv",
+    "sha256": "23493682e9282bfca416b699d5674e49c81b56f55d9724a1ec09ac21b988f1e4"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_COMPARACIONES_H_V1/RESUMEN_INTERCAMBIO.csv",
+    "sha256": "92974e54b057ddec330b281f8db8e2bbc7a52bda76b4ac6ded2cff25b2abb3c9"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_H_V1/COMPARACION_ENSAMBLES.csv",
+    "sha256": "48126c86b752414f4db0436d089bf0fb3bfec9504912775fd78d156c2b01bc6e"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_H_V1/DIFERENCIAS_PAREADAS.csv",
+    "sha256": "d53ab4533aca2f414fd629dd75a56fb5850d0c062cc66693a78e81a25b235879"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_H_V1/FEATURES_EXCLUIDAS.csv",
+    "sha256": "38475faa56a7c876f577eaf5a07da544be219b472a54e6ef4f2b097bfc684135"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_H_V1/FEATURES_USADAS.csv",
+    "sha256": "80ffc2808bda2fdc57f9b278ca03b514c0f77035124749afa19df32c6af28a3d"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_H_V1/RESULTADOS_PARCIALES.csv",
+    "sha256": "1a42f104cb11ec654f3adedf400384bb0bd2ea91cc8cd2e5e5b85c44ddf81e35"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_P_V1/EXCLUIDAS.csv",
+    "sha256": "38475faa56a7c876f577eaf5a07da544be219b472a54e6ef4f2b097bfc684135"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_P_V1/FEATURES.csv",
+    "sha256": "9eafaa68f9f510fe24d3fd53217c5e9b65a2a1235a4d71d81f080507dcbf5f99"
+  },
+  {
+    "archivo": "evidencia/SIN_CIERRES_P_V1/GRUPOS_ENS5.csv",
+    "sha256": "9d33d36e750c12c290a167aeff34b4c02e47c00d67901177e21932a58a21d0e0"
+  },
+  {
+    "archivo": "evidencia/STATUS_ABLACIONES_H_V1/SOLO_MASTER/COMPARACION_ENSAMBLES.csv",
+    "sha256": "8d28b3cfea1d3292c2ffd77e38ea66ed44398efa3133bf5922e8fcd531bb7916"
+  },
+  {
+    "archivo": "evidencia/STATUS_ABLACIONES_H_V1/SOLO_MASTER/DIFERENCIAS_PAREADAS.csv",
+    "sha256": "1e292e156547fbe63cd32dfb3cf0b6d7a3c7fbefa69e947cad49bc314e264aa7"
+  },
+  {
+    "archivo": "evidencia/STATUS_ABLACIONES_H_V1/SOLO_MASTER/FEATURES_NUEVAS.csv",
+    "sha256": "9941dc5301199b78f46515dcd82e29294264c2fdea3174a5469a0f540f68f88f"
+  },
+  {
+    "archivo": "evidencia/STATUS_ABLACIONES_H_V1/SOLO_MASTER/RESULTADOS_PARCIALES.csv",
+    "sha256": "7d734c8ca0dea5236a62a4c744ec5f696a986bb875a8feb4f022a1901d3499c3"
+  },
+  {
+    "archivo": "evidencia/STATUS_ABLACIONES_H_V1/SOLO_VISA/COMPARACION_ENSAMBLES.csv",
+    "sha256": "58f0d64ed912028289c9e5f01847bd563a388fbd3f849d1dc0b0aedc1f987828"
+  },
+  {
+    "archivo": "evidencia/STATUS_ABLACIONES_H_V1/SOLO_VISA/DIFERENCIAS_PAREADAS.csv",
+    "sha256": "dc9f7e0fbd51c170d04b2a3c46130463d9a5202197af4c4cce56670d9a840729"
+  },
+  {
+    "archivo": "evidencia/STATUS_ABLACIONES_H_V1/SOLO_VISA/FEATURES_NUEVAS.csv",
+    "sha256": "528567f3ae6d495bb77f9e76bed2e9bd49dd6aa6cabd88235efc2bcb538e362c"
+  },
+  {
+    "archivo": "evidencia/STATUS_ABLACIONES_H_V1/SOLO_VISA/RESULTADOS_PARCIALES.csv",
+    "sha256": "9ec577f11b1fd8b42229b0cb4c44f2adeb3c13de7c3d38d594bb9fa47e912597"
+  },
+  {
+    "archivo": "evidencia/STATUS_TRANSICIONES_H_V1/COMPARACION_ENSAMBLES.csv",
+    "sha256": "15bf59d2d4cb63ac6c82eeff7aef9750916c2627b084becedd2b99154ca6e083"
+  },
+  {
+    "archivo": "evidencia/STATUS_TRANSICIONES_H_V1/DIFERENCIAS_PAREADAS.csv",
+    "sha256": "5f4138fa9067cb899ad091c975d921b8dc064593c10279eee9b588b9b092aa6c"
+  },
+  {
+    "archivo": "evidencia/STATUS_TRANSICIONES_H_V1/FEATURES_NUEVAS.csv",
+    "sha256": "d33512d2bdd36f8c374c070d6090fcf90f0c60a090e47d0d546cfda8d9912b91"
+  },
+  {
+    "archivo": "evidencia/STATUS_TRANSICIONES_H_V1/RESULTADOS_PARCIALES.csv",
+    "sha256": "65f6a9a6a4080be90525cb54b72843fee4bb48912b72d420880cefda373844d3"
+  },
+  {
+    "archivo": "evidencia/VINCULACION_H_V1/COMPARACION_ENSAMBLES.csv",
+    "sha256": "904baac2db1799e678858be4f80c674964f0b34d040fbc379f1afcb9e032dc5f"
+  },
+  {
+    "archivo": "evidencia/VINCULACION_H_V1/DIFERENCIAS_PAREADAS.csv",
+    "sha256": "66eb44f63af6f4ee667b5781443284b602bb431dbe65383426047afaf23dfbe9"
+  },
+  {
+    "archivo": "evidencia/VINCULACION_H_V1/FEATURES_NUEVAS.csv",
+    "sha256": "0f80e1696ad146f442049b5357bd7a1395a89529bbd4622513b5762e2d6fdeae"
+  },
+  {
+    "archivo": "evidencia/VINCULACION_H_V1/RESULTADOS_PARCIALES.csv",
+    "sha256": "78b9c8766ccba30d14025e7520912df899827845cac07c192dc308e41eb8003a"
+  },
+  {
+    "archivo": "evidencia/VISA_COMPARACIONES_H_V1/COMPARACION_ENS5_PAREADA.csv",
+    "sha256": "34564088d5ea497a4221e793fbbc6e8e294ae94d282004da25c030e790e285e2"
+  },
+  {
+    "archivo": "evidencia/VISA_COMPARACIONES_H_V1/CURVAS_CADA_250.csv",
+    "sha256": "f3e256b93a66cf2b5226eba8f0bab18b248604575ad45fa29c216abcc2595522"
+  },
+  {
+    "archivo": "evidencia/VISA_COMPARACIONES_H_V1/GRUPOS_ENS5.csv",
+    "sha256": "9d33d36e750c12c290a167aeff34b4c02e47c00d67901177e21932a58a21d0e0"
+  },
+  {
+    "archivo": "evidencia/VISA_COMPARACIONES_H_V1/RESUMEN_ENS5.csv",
+    "sha256": "c36bba099fb5f638aa14858b7f9ac522fc7cdb2f9d700a7458d82075fb96f3bf"
+  },
+  {
+    "archivo": "evidencia/VISA_COMPARACIONES_H_V1/RESUMEN_ENSAMBLE10.csv",
+    "sha256": "b6906dca3ee7bc83391e80e71b6546b5108de625dde62084455c51c5f5bfe4db"
+  },
+  {
+    "archivo": "evidencia/VISA_COMPARACIONES_H_V1/RESUMEN_INTERCAMBIO.csv",
+    "sha256": "29bef8c3b599d1a5de1e5998946f02a7d17d543711cb1c551270510d8ae5cd73"
+  },
+  {
+    "archivo": "evidencia/evaluacion_cortes/COMPARACION_CORTES.csv",
+    "sha256": "ddee1aa87d1442d27fa3f7228cb85e372b82e4e27b8a9b095bfa13d726d28710"
+  },
+  {
+    "archivo": "evidencia/evaluacion_cortes/COMPARACION_LOCAL.csv",
+    "sha256": "a32906aba478df6d64ee2ed13d2cea9bdd4253ad3536e8663e8cdccf0b74e087"
+  },
+  {
+    "archivo": "evidencia/evaluacion_cortes/COMPARACION_PUNTO_INTERMEDIO.csv",
+    "sha256": "feb38255990a000b6a544c1e7d6f214dfb3491d4cdc87587a35a9c9e349dff12"
+  },
+  {
+    "archivo": "evidencia/evaluacion_cortes/CURVA_JUNIO.csv",
+    "sha256": "f8b9cc2eeac337ee284570118e07a2a0c4ad503a4ba1c93c1f9567c1e4088ec3"
+  },
+  {
+    "archivo": "experimentos/bo_sin_cierres_nueva.R",
+    "sha256": "e37dfd1e91126035c3821624f2be612237088fddfb38e210abe905e7a2a17496"
+  },
+  {
+    "archivo": "experimentos/rank_zero_tend3.R",
+    "sha256": "4d0a3a539937f810f97aa6c99ced09d586d503566689d1f42d44352c1da42ec5"
+  },
+  {
+    "archivo": "experimentos/sin_cierres_comparaciones.R",
+    "sha256": "49bfa19f7c644e37b082d72259f030619fdc908ddbc845fad9e6acd244e7da0c"
+  },
+  {
+    "archivo": "experimentos/sin_cierres_historico.R",
+    "sha256": "68aacb67bb38625c64ab68ea49aceebeef7605d967a8da855802d4116503b71b"
+  },
+  {
+    "archivo": "experimentos/solo_master.R",
+    "sha256": "a5e1631f6d7c6b8c82a359c713352eec36a294c96464ec63e716b7d1445db2cd"
+  },
+  {
+    "archivo": "experimentos/solo_visa.R",
+    "sha256": "373f35922f9647a4f8563a265532db5a9b71f4cfbe7b1a47996d282b3ebee25d"
+  },
+  {
+    "archivo": "experimentos/tarjetas.R",
+    "sha256": "cdf7ba9edec15782eae1c143d65bda16309aaf155e8a627b68504b8584584889"
+  },
+  {
+    "archivo": "experimentos/vinculacion.R",
+    "sha256": "1d67f378dd96a115adc84f81f4e4cf50985fdb52141854dc420c409f6ebb4c09"
+  },
+  {
+    "archivo": "experimentos/visa_comparaciones.R",
+    "sha256": "0482a2458a9ea22c42481c2fd02a09e8546d2fe7d2a5c61a9998eeb2568b13dc"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_H/CELDA_03.R",
+    "sha256": "5ef5c9095cdb11d5e5b8252a302c9b9c2db7950e5367da26ad84e2c29d35d4be"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_H/CELDA_04.R",
+    "sha256": "9c2b1b919b26074884ba41a57c9e8440f32a257f2d1c3a0706666fdf2259887c"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_H/CELDA_05.R",
+    "sha256": "cb7b50b1928ae1db6762beb83486dfd55a0b7bd10d299b59d7d40b6c3f3be046"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_H/CELDA_06.R",
+    "sha256": "f539519c1a07defe4f1953ba4ce1a18fed1aa30169e1dffcbbb8b3018f9709d7"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_H/CELDA_07.R",
+    "sha256": "bdd82da8f8eb5be78099a7d60654b862821678bedbd4fa929e86fe06bfd8045b"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_H/CELDA_19.R",
+    "sha256": "b714305bf173587a2834df1317d1ba07db1701edfa16dfe05dfb0f1b9a011965"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_H/CELDA_20.R",
+    "sha256": "07071de849aa026f3ff98e3d07596fc5c231cb7c89d6405f4703a7e58abb5151"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_H/CELDA_21.R",
+    "sha256": "ae3c0880b8f639b1ae1e74572cfe8c63d7405060636f61583141bab171f1e081"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_H/EJECUTAR_HISTORIA.R",
+    "sha256": "e5e0250fcff6322d64c4d1a70cfc1d89ecb21eddc529db89a40c041ebe280b3e"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_H/REANUDAR_ENTORNO_20261010_140950.R",
+    "sha256": "c88adec3e2f205f2795725b897cfdad5cc055ab03ffd4e938439c91920697d4a"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_P_V1/EJECUTAR_PRODUCCION.R",
+    "sha256": "76c1b2c1192e9aba88c4624c7fe5cc9aefb9c39444f67c4f6a1ce0788e6f0d28"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_P_V1/fuentes/CELDA_03.R",
+    "sha256": "5ef5c9095cdb11d5e5b8252a302c9b9c2db7950e5367da26ad84e2c29d35d4be"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_P_V1/fuentes/CELDA_04.R",
+    "sha256": "9c2b1b919b26074884ba41a57c9e8440f32a257f2d1c3a0706666fdf2259887c"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_P_V1/fuentes/CELDA_05.R",
+    "sha256": "cb7b50b1928ae1db6762beb83486dfd55a0b7bd10d299b59d7d40b6c3f3be046"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_P_V1/fuentes/CELDA_06.R",
+    "sha256": "f539519c1a07defe4f1953ba4ce1a18fed1aa30169e1dffcbbb8b3018f9709d7"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_P_V1/fuentes/CELDA_07.R",
+    "sha256": "bdd82da8f8eb5be78099a7d60654b862821678bedbd4fa929e86fe06bfd8045b"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_P_V1/fuentes/CELDA_19.R",
+    "sha256": "b714305bf173587a2834df1317d1ba07db1701edfa16dfe05dfb0f1b9a011965"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ARTIFICIALES_RANK_P_V1/fuentes/CELDA_20.R",
+    "sha256": "07071de849aa026f3ff98e3d07596fc5c231cb7c89d6405f4703a7e58abb5151"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/CORTES_ROBUSTOS_H_V1/ANALIZAR.R",
+    "sha256": "16fc770b51afa93dd33ea16bf3b0e0bdabcc65d69fd0d9837d64d63369268adb"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ENSAMBLES5_STATUS_V1/EJECUTAR.R",
+    "sha256": "26002ef9854da28dc51331a006ed36e6e3efedd2b420f7e2c921a776ac235045"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/ENSAMBLES5_STATUS_V1/STATUS_CORREGIDO_JUNIO/CORREGIR_AUDITORIA.R",
+    "sha256": "b0b0b77ea250ced85a274411dc55aba1480da01ffa06cbccbc0a6454d336339b"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/FINAL_COMPARACIONES_V1/ENTREGA/ENTRENAR.R",
+    "sha256": "a4cfafd0215ac577f9cca52d1d7be25dd77255d153e44725edae54cc993a2d20"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/FINAL_COMPARACIONES_V1/PREPARAR_FINAL.R",
+    "sha256": "aed26207724574c8debad0ef6a29d97fb21eda17e69e32e40b3d9c9183757a66"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/RANK_ZERO_TEND3_H_V1/EJECUTAR.R",
+    "sha256": "b4545ed6eb57f3d8c5454787d053600ec22273a99477d68d1fcdc1e39f024277"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/SIN_CIERRES_BO_FINAL_V1/EJECUTAR.R",
+    "sha256": "0e935f520fbbf713f2c0f6f0bdafeca4672ac35963c95cd8f0da259d37cb87cb"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/SIN_CIERRES_COMPARACIONES_H_V1/COMPARAR_VERIFICADO.R",
+    "sha256": "888ca7b712d709675025975087c15bc4ded0b9859b84711ce2500c001d06e60d"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/STATUS_ABLACIONES_H_V1/SOLO_MASTER/EJECUTAR.R",
+    "sha256": "981f771bb5cf43bbcc29e0752d770e64b3c86b8853f31e8e845bce5192703700"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/STATUS_ABLACIONES_H_V1/SOLO_VISA/EJECUTAR.R",
+    "sha256": "6c87294e91d5fd9580a0cf474f15f49d8d825a9a7b9ad1a76433f381c8c9c22b"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/STATUS_TRANSICIONES_H_V1/EJECUTAR_STATUS.R",
+    "sha256": "bd618308050797f5c0e4036c3d8ec4c7b6cbc5e121c96cdd4dbe00a2ae6631db"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/VINCULACION_H_V1/EJECUTAR_VINCULACION.R",
+    "sha256": "ce4663e95918722b571876c602e3afab667c6a44a7d308ae7c5f551501dc46bc"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/VINCULACION_H_V1/FUENTE_STATUS_ORIGINAL.R",
+    "sha256": "bd618308050797f5c0e4036c3d8ec4c7b6cbc5e121c96cdd4dbe00a2ae6631db"
+  },
+  {
+    "archivo": "procedencia/fuentes_experimentos/VISA_COMPARACIONES_H_V1/COMPARAR_VERIFICADO.R",
+    "sha256": "26d290829687ee08178ab6d64264051c075612141eb30966ad3eba5734db61d1"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/SIN_CIERRES_H_V1/EJECUTAR_SIN_CIERRES.R",
+    "sha256": "405acae601bc27459601ea6ab6570b7a4fd44bc799d881360f21069ea2b38944"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/SIN_CIERRES_P_V1/ENTRENAR.R",
+    "sha256": "a4cfafd0215ac577f9cca52d1d7be25dd77255d153e44725edae54cc993a2d20"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/CELDA_03.R",
+    "sha256": "5ef5c9095cdb11d5e5b8252a302c9b9c2db7950e5367da26ad84e2c29d35d4be"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/CELDA_04.R",
+    "sha256": "9c2b1b919b26074884ba41a57c9e8440f32a257f2d1c3a0706666fdf2259887c"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/CELDA_05.R",
+    "sha256": "cb7b50b1928ae1db6762beb83486dfd55a0b7bd10d299b59d7d40b6c3f3be046"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/CELDA_06.R",
+    "sha256": "f539519c1a07defe4f1953ba4ce1a18fed1aa30169e1dffcbbb8b3018f9709d7"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/CELDA_07.R",
+    "sha256": "bdd82da8f8eb5be78099a7d60654b862821678bedbd4fa929e86fe06bfd8045b"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/CELDA_19.R",
+    "sha256": "b714305bf173587a2834df1317d1ba07db1701edfa16dfe05dfb0f1b9a011965"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/CELDA_20.R",
+    "sha256": "07071de849aa026f3ff98e3d07596fc5c231cb7c89d6405f4703a7e58abb5151"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/CELDA_21.R",
+    "sha256": "ae3c0880b8f639b1ae1e74572cfe8c63d7405060636f61583141bab171f1e081"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/CELDA_22.R",
+    "sha256": "7b09ae48d8e58728c049e9d529a6f62a8a1006bd29a1001ebfae41f18a0ead11"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/CELDA_23.R",
+    "sha256": "e406ae80a24e0b3392ccbb4d4a096287dca60828d90293173e95b97fe9658ab7"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/CELDA_25.R",
+    "sha256": "ad11d9a0bc21ac64521d7654bbdaf8603f7c25902d049ac3fe71e50b04a934f0"
+  },
+  {
+    "archivo": "procedencia/fuentes_originales/fuentes_integral/EJECUTAR_MINIMOS.R",
+    "sha256": "c253f79ed94a3bcd633e967ea7178117a1a9aab430c7f16b91b429471d279503"
+  },
+  {
+    "archivo": "procedencia_bo/0621c1e8942c1632c00f8ae4c7b80adcfd58c304a43bbb334088afbf63ff8b3c/FIRMA.rds",
+    "sha256": "71d5d0a20ff29bf51e5584f52c7f78295026ef2bc3b2f8adddbd57214cc4bd1e"
+  },
+  {
+    "archivo": "procedencia_bo/0621c1e8942c1632c00f8ae4c7b80adcfd58c304a43bbb334088afbf63ff8b3c/HISTORIAL.csv",
+    "sha256": "ad90ec3988350e19d932840fd30f598a260574e4f00d2b872f59079a2d007413"
+  },
+  {
+    "archivo": "procedencia_bo/0621c1e8942c1632c00f8ae4c7b80adcfd58c304a43bbb334088afbf63ff8b3c/HISTORIAL.rds",
+    "sha256": "32037d8d82d97cd4820f570adfd58df13d7182e66fb59ed5e9c640569d68958b"
+  },
+  {
+    "archivo": "procedencia_bo/0621c1e8942c1632c00f8ae4c7b80adcfd58c304a43bbb334088afbf63ff8b3c/TERMINADO.rds",
+    "sha256": "111e570700a3f0ed885341ef04ad4243a61c4d0fdac8d9cc22d0e6892c1a3489"
+  },
+  {
+    "archivo": "procedencia_bo/2595ac2f643b4afb3166b2701db84bc24e786246b65cabc9c73025d1ba5f66a8/FIRMA.rds",
+    "sha256": "4067c390ec2b0412e423df3c13c022053bf1d79ef478ae4c97730c2d2f1840cd"
+  },
+  {
+    "archivo": "procedencia_bo/2595ac2f643b4afb3166b2701db84bc24e786246b65cabc9c73025d1ba5f66a8/HISTORIAL.csv",
+    "sha256": "19495c7d9eea6825fbbb28647863d31c228ba2f68b57761cbe71173cdb75e0c7"
+  },
+  {
+    "archivo": "procedencia_bo/2595ac2f643b4afb3166b2701db84bc24e786246b65cabc9c73025d1ba5f66a8/HISTORIAL.rds",
+    "sha256": "6b51ea723ecc7b698409a950043e70cc67fb325c7e6597ef25e6ead17e6935a0"
+  },
+  {
+    "archivo": "procedencia_bo/2595ac2f643b4afb3166b2701db84bc24e786246b65cabc9c73025d1ba5f66a8/TERMINADO.rds",
+    "sha256": "218be005e154771741b29dbf12fb846d07e095a21fafd25dd8b0aa5c518172de"
+  },
+  {
+    "archivo": "procedencia_bo/37fa6c85a784b6a214de0590f8f9e40c037228d73d6dfc2aed3763b62b93d972/FIRMA.rds",
+    "sha256": "c090a2e959eb3ba78fa3b6a8c4323aaf61cf8321de5e42b64770497119483692"
+  },
+  {
+    "archivo": "procedencia_bo/37fa6c85a784b6a214de0590f8f9e40c037228d73d6dfc2aed3763b62b93d972/HISTORIAL.csv",
+    "sha256": "2cb7b1f98fdd1d2c8d470ac005331fddb722545087542b6dcc272e94ca15ea67"
+  },
+  {
+    "archivo": "procedencia_bo/37fa6c85a784b6a214de0590f8f9e40c037228d73d6dfc2aed3763b62b93d972/HISTORIAL.rds",
+    "sha256": "14b192c92d53deef8055ea40a61ee36669de324f7071ac36dbe77ac37252a830"
+  },
+  {
+    "archivo": "procedencia_bo/37fa6c85a784b6a214de0590f8f9e40c037228d73d6dfc2aed3763b62b93d972/TERMINADO.rds",
+    "sha256": "6a9bcf1663c7c5c7a26520ace1f0d5bc2599ab4be53f471a34dc4c63d446ec34"
+  },
+  {
+    "archivo": "procedencia_bo/52fc1b5d908fb495ce06d1ed3038defbaf9a2609d2ea0bc80904d2ba8b58c6ed/FIRMA.rds",
+    "sha256": "50eef392c2baf4c7a7f6eb528e83427f71b3f8d5ce842ce9e9b02ac3ecf1b8dc"
+  },
+  {
+    "archivo": "procedencia_bo/52fc1b5d908fb495ce06d1ed3038defbaf9a2609d2ea0bc80904d2ba8b58c6ed/HISTORIAL.csv",
+    "sha256": "15891c7d51d69b6e8ddd55cc8cfb6472d9a9b701b9f886ebc80f39afa9d08368"
+  },
+  {
+    "archivo": "procedencia_bo/52fc1b5d908fb495ce06d1ed3038defbaf9a2609d2ea0bc80904d2ba8b58c6ed/HISTORIAL.rds",
+    "sha256": "d409aebab651df97a7b45ee78608a18aae2e1da309172e15495f47280b2b0914"
+  },
+  {
+    "archivo": "procedencia_bo/52fc1b5d908fb495ce06d1ed3038defbaf9a2609d2ea0bc80904d2ba8b58c6ed/TERMINADO.rds",
+    "sha256": "2876d778c8faed4c65ba6ae0c7ac7eaee2e4205849d9ae8288d2e1aba8029100"
+  },
+  {
+    "archivo": "procedencia_bo/BO_ORIGEN.csv",
+    "sha256": "15891c7d51d69b6e8ddd55cc8cfb6472d9a9b701b9f886ebc80f39afa9d08368"
+  },
+  {
+    "archivo": "procedencia_bo/bf654ea508b68620dba3a8ffa6f1aeb91e2886174dceeca3fd104ac91f0fd675/FIRMA.rds",
+    "sha256": "0cc2bb1080d390f4706c1cd448d2972674259eb3d2580a2f5ccd7a10ee5ffc3d"
+  },
+  {
+    "archivo": "procedencia_bo/bf654ea508b68620dba3a8ffa6f1aeb91e2886174dceeca3fd104ac91f0fd675/HISTORIAL.csv",
+    "sha256": "f3f8fc02fdcdb5deb5af3af7d40c4796f31f5d3bdb67f397bc707dd97293c37f"
+  },
+  {
+    "archivo": "procedencia_bo/bf654ea508b68620dba3a8ffa6f1aeb91e2886174dceeca3fd104ac91f0fd675/HISTORIAL.rds",
+    "sha256": "def7c2b0a45f33951a3fe4f46ec2f46ff84c669731f97d65f9ae09e73d47676b"
+  },
+  {
+    "archivo": "procedencia_bo/bf654ea508b68620dba3a8ffa6f1aeb91e2886174dceeca3fd104ac91f0fd675/TERMINADO.rds",
+    "sha256": "c54a395dd7b40c07f4a3b4fa1514992601d991fa092ccc6e252e0e244af0e2c3"
+  },
+  {
+    "archivo": "procedencia_bo/d3d28cc4bd4d5336fb1bd7e8d6b47de26375209806f59252be5d44873d477efa/FIRMA.rds",
+    "sha256": "1c53a16f4d61e3366729fa92119f0d1112aab16a42063719a16a700c8dd62c68"
+  },
+  {
+    "archivo": "procedencia_bo/d3d28cc4bd4d5336fb1bd7e8d6b47de26375209806f59252be5d44873d477efa/HISTORIAL.csv",
+    "sha256": "8411f7dc95bd41ca4b83570df2f471be58b5cee19456eeecf317316bc9722186"
+  },
+  {
+    "archivo": "procedencia_bo/d3d28cc4bd4d5336fb1bd7e8d6b47de26375209806f59252be5d44873d477efa/HISTORIAL.rds",
+    "sha256": "f4d083e4d60fabd6fc761993d66bb575b0d7d7cd571783720b282d74a269bf74"
+  },
+  {
+    "archivo": "procedencia_bo/d3d28cc4bd4d5336fb1bd7e8d6b47de26375209806f59252be5d44873d477efa/TERMINADO.rds",
+    "sha256": "e6dac5068eb4a7d6bd4b32be516e0d6765e47386833d0b1f9629c931fb60385f"
+  },
+  {
+    "archivo": "referencia/EXCLUIDAS.csv",
+    "sha256": "38475faa56a7c876f577eaf5a07da544be219b472a54e6ef4f2b097bfc684135"
+  },
+  {
+    "archivo": "referencia/FEATURES.csv",
+    "sha256": "9eafaa68f9f510fe24d3fd53217c5e9b65a2a1235a4d71d81f080507dcbf5f99"
+  },
+  {
+    "archivo": "referencia/GRUPOS_ENS5.csv",
+    "sha256": "9d33d36e750c12c290a167aeff34b4c02e47c00d67901177e21932a58a21d0e0"
+  },
+  {
+    "archivo": "referencia/SINCIERRES_PROB10_K10375.csv",
+    "sha256": "7715cbb9568462c2a1f9b0534528fbce3f77c54cd43a255c59476dc9a37b5caa"
+  }
+]

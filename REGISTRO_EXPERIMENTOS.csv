@@ -1,0 +1,16 @@
+switch,por_defecto,decision
+control,FALSE,Referencia; restaurar cierres no superó el ensamble final sin cierres.
+rankings,FALSE,"Mejor junio, público inferior; no elegido."
+artificiales_original,FALSE,No elegido para la entrega.
+artificiales_rank,FALSE,Producido y evaluado; no elegido.
+rank_montos,FALSE,Antecedente de ranking de montos; no elegido.
+target_baja2,FALSE,Antecedente de target BAJA+2; no elegido.
+tarjetas,FALSE,Transiciones de ambas tarjetas: meseta amplia inferior.
+solo_visa,FALSE,Mejora local y meseta amplia inferior; no elegido.
+solo_master,FALSE,Sin mejora consistente; no elegido.
+vinculacion,FALSE,Sin mejora amplia consistente; no elegido.
+sin_cierres_historico,FALSE,Elegido; familia de diez campos de cierre excluida.
+rank_zero_tend3,FALSE,Sin mejora conjunta consistente; no elegido.
+bo_sin_cierres_nueva,FALSE,"Producido; público K10500=98,89 M; descartado."
+diagnosticos_ens5,FALSE,"Diagnóstico de estabilidad; grupos compartidos, no tests independientes."
+cortes_historicos,FALSE,"Elegí K10375 combinando meseta, dispersión y público."
