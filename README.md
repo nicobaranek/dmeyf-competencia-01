@@ -71,3 +71,8 @@ Mis grupos ENS5 comparten modelos; no los interpreto como veinte pruebas indepen
 Verifiqué la estructura de las notebooks, la sintaxis Python, la sintaxis R y la procedencia de los HP. La reproducción desde el crudo queda confirmada únicamente cuando obtengo `salida/final/VERIFICACION_FINAL.txt` con el SHA256 esperado. Hasta entonces no presento la revisión estática como una ejecución completa.
 
 El archivo de `referencia/` permite contrastar la salida y su hash; no lo utilizo para generar las probabilidades ni para sustituir el entrenamiento.
+
+
+## Mi reproducción confirmada
+
+Verifiqué la ejecución desde el crudo el 11/10/2026 a las 22:45:49 de Buenos Aires. Los diez modelos generaron exactamente el CSV elegido. Dejo la constancia en VERIFICACION_FINAL.txt.
